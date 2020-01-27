@@ -6,6 +6,10 @@ body {
         margin-top: 20px;
         background-color: white;
         max-width: 1075px;
+
+        @media (max-width: 768px) {
+            margin-top: 0;
+        }
     }
 }
 .report {

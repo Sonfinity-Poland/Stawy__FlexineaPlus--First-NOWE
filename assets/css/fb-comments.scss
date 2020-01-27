@@ -41,6 +41,16 @@
     margin: 0px 8px 0px 8px;
     max-width: 50px;
 }
+
+.imagen {
+    width: 100%;
+    max-width: 200px;
+
+    @media (max-width: 575px) {
+        max-width: 150px;
+    }
+}
+
 .first-cmt{
     display: flex;
     flex-direction: row;

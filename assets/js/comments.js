@@ -374,7 +374,7 @@ function renderMockCommetns() {
                         <p>
                             ${element.content}
                         </p>
-<img class="w-25 mb-2 mt-2 imagen" src="assets/img/${element.pict}.jpg" alt="">
+                        <img class="mb-2 mt-2 imagen" src="assets/img/${element.pict}.jpg" alt="">
                         <div class="cmt-buttons">
                             <span class="like-btn">Lubię to</span>
                             <svg width="18px" height="18px" style="margin-top: -4px;" viewBox="0 0 543 451" version="1.1" xmlns="http://www.w3.org/2000/svg">
@@ -404,16 +404,13 @@ function renderMockCommetns() {
                                 </div>
                                 <div class="cmtRight px-3">
                                     <div class="cmt-title">
-                                        <span class="commenterName">${
-                                          answerMock.nick
-                                        }</span><span class="date">${
-          answerMock.date
-        }</span>
+                                        <span class="commenterName">${answerMock.nick}</span>
+                                        <span class="date">${ answerMock.date}</span>
                                     </div>
                                     <p>
                                         ${answerMock.content}
                                     </p>
-<img class="w-25 mb-2 mt-2 imagen" src="assets/img/${answerMock.pict}.jpg" alt="">
+                                    <img class="mb-2 mt-2 imagen" src="assets/img/${answerMock.pict}.jpg" alt="">
                                     <div class="cmt-buttons">
                                         <span class="like-btn">Lubię to</span>
                                         <svg width="18px" height="18px" style="margin-top: -4px;" viewBox="0 0 543 451" version="1.1" xmlns="http://www.w3.org/2000/svg">
