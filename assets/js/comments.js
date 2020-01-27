@@ -48,21 +48,21 @@ let commentsJSON = [
         hasLiked: false
   },
     {
-        nick: "Sylwia ",
+        nick: "Sylwia",
         date: "poniedziałek 20.01.2020",
         content: "ja też stosowałam na odcinek szyjny kregoslupa oraz nadgarstki, minął ból jak ręką odjął – po pół roku specjalnych masaży i zabiegów które nic nie skutkowały!!!!!!! nie traćcie czasu tylko zastosujcie formułę profesora",
         likes: 3,
         hasLiked: false
   },
     {
-        nick: "Janinka ",
+        nick: "Janinka",
         date: "poniedziałek 20.01.2020",
         content: "wow. Właśnie wertowałam portale w poszukiwaniu czegoś dobrego na zapalenie i obrzęk stawów. Już kolejny portal, gdzie opisują tą kurację, muszę to mieć :)",
         likes: 3,
         hasLiked: false,
         answers: [
             {
-                nick: "Patrycja ",
+                nick: "Patrycja",
                 date: "poniedziałek 20.01.2020",
                 content: "<b>@janinka</b> kup koniecznie, tym bardziej że teraz jest promocja. Ja już mam to cudo, zobaczymy jak działa ",
                 likes: 3,
@@ -119,7 +119,7 @@ let commentsJSON = [
         hasLiked: false
   },
     {
-        nick: "Maciek ",
+        nick: "Maciek",
         date: "poniedziałek 20.01.2020",
         content: "Zamówiłem Flexinea+, bo chcę pozbyć się bólu kręgosłupa. Będę ojcem, więc muszę mieć siłę i mam w końcu motywację, by coś z tym bólem zrobić. Efekt – mega! Ból ustąpił po dobie, nie mogę doczekać się końca kuracji.",
         likes: 2,
@@ -141,7 +141,7 @@ let commentsJSON = [
         hasLiked: false,
         "answers": [
             {
-                nick: "Dawid ",
+                nick: "Dawid",
                 date: "poniedziałek 20.01.2020",
                 content: "<b>@Katarzyna</b> odkąd się dowiedziałem o tej kuracji to zacząłem stosować na kręgosłup,pomogło mi więc sprezentowałem tacie, a ma 94 lata więc wiadomo ledwo łaził. A tak mu się poprawiło że założył mamy kapelusz i szlafrok i zaczął tańczyć hehe Więc polecam też tobie i twojej mamie",
                 likes: 0,
@@ -190,7 +190,7 @@ let commentsJSON = [
         ]
   },
     {
-        nick: "Robert ",
+        nick: "Robert",
         date: "poniedziałek 20.01.2020",
         content: "Mój brat brał te kapsułki i mi je polecił stosował te naturalne kapsułki i jakiś czas temu mi je polecił. Dostałem paczkę w przeciągu 3 dni. Jak na razie rezultaty są oszałamiające – ból pleców minął, a ja z każdym dniem czuję się lepiej! Nie mogę się już doczekać końca!",
         likes: 0,
