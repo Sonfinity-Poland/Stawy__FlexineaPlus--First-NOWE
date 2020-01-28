@@ -13,7 +13,7 @@ body {
     }
 }
 .report {
-    background-color: #74b7af;
+    background-color: #0a9c9c;
     color: white;
     font-weight: 500;
     padding: 3px 8px;
@@ -48,6 +48,7 @@ h5 {
 h2.except {
     font-size: 27px;
     font-weight: 500;
+    line-height: 31px;
 }
 .baner-2 {
     border: 1px solid grey;
@@ -162,6 +163,21 @@ ul {
 }
 .weather {
     border: 1px solid rgba(0, 0, 0, .125);
+}
+
+.x-image {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    
+    img {
+        padding: 20px;
+        max-width: 333px;
+    }
+
+    p {
+     padding-top:20px;   
+    }
 }
 @media (max-width: 480px) {
     h2 {
