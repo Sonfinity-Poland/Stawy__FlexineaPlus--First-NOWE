@@ -168,11 +168,6 @@ ul h3 {
   margin-right: 7px;
 }
 
-.bals {
-  width: 100%;
-  margin-bottom: 15px;
-}
-
 ul {
   margin-left: 25px;
   padding-left: 0;
@@ -211,11 +206,13 @@ ul {
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
+  margin: 0 auto;
+  margin-top: 20px;
 }
 
 .x-image img {
-  padding: 20px;
-  max-width: 333px;
+  width: 100%;
+  margin-bottom: 15px;
 }
 
 .x-image p {
