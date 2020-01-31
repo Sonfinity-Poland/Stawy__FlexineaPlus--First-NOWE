@@ -64,7 +64,7 @@ let commentsJSON = [
             {
                 nick: "Patrycja",
                 date: "poniedziałek 20.01.2020",
-                content: "<b>@janinka</b> kup koniecznie, tym bardziej że teraz jest promocja. Ja już mam to cudo, zobaczymy jak działa ",
+                content: "<b>@janinka</b> kup koniecznie, tym bardziej że teraz jest promocja. Ja już mam to cudo, zobaczymy jak działa",
                 likes: 3,
                 hasLiked: false,
                 pict: "NR1"
@@ -88,7 +88,7 @@ let commentsJSON = [
     {
         nick: "Dagmara",
         date: "poniedziałek 20.01.2020",
-        content: "Właśnie przyszło! Jezu, jaram się! Oby w końcu coś zadziałało na moje halluksy! Trzymajcie kciuki kochani! ",
+        content: "Właśnie przyszło! Jezu, jaram się! Oby w końcu coś zadziałało na moje halluksy! Trzymajcie kciuki kochani!",
         likes: 9,
         hasLiked: false,
         pict: "NR1"
@@ -104,7 +104,7 @@ let commentsJSON = [
             {
                 nick: "Zofia",
                 date: "poniedziałek 20.01.2020",
-                content: "<b>@Marianna</b> to faktycznie działa, moje bóle kręgosłupy minęły jak ręką odjął, a ortopeda był zdziwiony, że po rwie kulszowej nie ma ani śladu! Polecam wszystkim! ",
+                content: "<b>@Marianna</b> to faktycznie działa, moje bóle kręgosłupy minęły jak ręką odjął, a ortopeda był zdziwiony, że po rwie kulszowej nie ma ani śladu! Polecam wszystkim!",
                 likes: 5,
                 hasLiked: false,
                 pict: "NR1"
@@ -121,14 +121,14 @@ let commentsJSON = [
     {
         nick: "Maciek",
         date: "poniedziałek 20.01.2020",
-        content: "Zamówiłem Flexinea+, bo chcę pozbyć się bólu kręgosłupa. Będę ojcem, więc muszę mieć siłę i mam w końcu motywację, by coś z tym bólem zrobić. Efekt – mega! Ból ustąpił po dobie, nie mogę doczekać się końca kuracji.",
+        content: "Zamówiłem Flexinea+, bo chcę pozbyć się bólu kręgosłupa. Będę ojcem, więc muszę mieć siłę i mam w końcu motywację, by coś z tym bólem zrobić. Efekt – mega! Ból ustąpił po dobie, nie mogę doczekać się końca kuracji.  ",
         likes: 2,
         hasLiked: false,
   },
     {
         nick: "Paulina",
         date: "poniedziałek 20.01.2020",
-        content: "Kiedyś nabawiłam się kontuzji barku, nawet miałam operację, ale niestety do dziś szwankuje. Zamówiłam te kapsułki i od razu poskutkowało, nie ma żadnego bólu, to już 2 tydzień, więc zakres ruchu jest większy. Polecam wszystkim! ",
+        content: "Kiedyś nabawiłam się kontuzji barku, nawet miałam operację, ale niestety do dziś szwankuje. Zamówiłam te kapsułki i od razu poskutkowało, nie ma żadnego bólu, to już 2 tydzień, więc zakres ruchu jest większy. Polecam wszystkim!",
         likes: 0,
         hasLiked: false,
         pict: "NR1"
@@ -175,7 +175,7 @@ let commentsJSON = [
             {
                 nick: "Natalia",
                 date: "poniedziałek 20.01.2020",
-                content: "<b>@Ola</b> nie masz czego się obawiać, cała moja rodzina to bierze i wszyscy się dobrze czujemy. Mi pomogło na kolano, mojej mamie na biodra, tobie też pewnie pomoże. Spróbuj! ",
+                content: "<b>@Ola</b> nie masz czego się obawiać, cała moja rodzina to bierze i wszyscy się dobrze czujemy. Mi pomogło na kolano, mojej mamie na biodra, tobie też pewnie pomoże. Spróbuj!",
                 likes: 0,
                 hasLiked: false,
                 pict: "NR1"   
