@@ -35,35 +35,35 @@ setInterval(calculateHMSleft, 1000);
 let commentsJSON = [
     {
         nick: "Piotr",
-        date: "poniedziałek 20.01.2020",
+        date: "15 minut temu",
         content: "a mowi się że polacy nie odnosza sukcesow na skale swiatowa. wspaniałe osiągnięcie. Brawa dla naszego rodaka",
         likes: 23,
         hasLiked: false
   },
     {
         nick: "Kasia",
-        date: "poniedziałek 20.01.2020",
+        date: "35 minut temu",
         content: "ja skorzystalam z tych kapsułek, kosztowało tak mało pieniedzy, że szkoda by było nie spróbować. a kolano już nie boli i przestało chrupać i trzeszczeć! czuje się jak nowonarodzona. polecam z calego serca",
         likes: 0,
         hasLiked: false
   },
     {
         nick: "Sylwia",
-        date: "poniedziałek 20.01.2020",
+        date: "45 minut temu",
         content: "ja też stosowałam na odcinek szyjny kregoslupa oraz nadgarstki, minął ból jak ręką odjął – po pół roku specjalnych masaży i zabiegów które nic nie skutkowały!!!!!!! nie traćcie czasu tylko zastosujcie formułę profesora",
         likes: 3,
         hasLiked: false
   },
     {
         nick: "Janinka",
-        date: "poniedziałek 20.01.2020",
+        date: "1 godzinę temu",
         content: "wow. Właśnie wertowałam portale w poszukiwaniu czegoś dobrego na zapalenie i obrzęk stawów. Już kolejny portal, gdzie opisują tą kurację, muszę to mieć :)",
         likes: 3,
         hasLiked: false,
         answers: [
             {
                 nick: "Patrycja",
-                date: "poniedziałek 20.01.2020",
+                date: "1 godzinę temu",
                 content: "<b>@janinka</b> kup koniecznie, tym bardziej że teraz jest promocja. Ja już mam to cudo, zobaczymy jak działa ",
                 likes: 3,
                 hasLiked: false,
@@ -73,21 +73,21 @@ let commentsJSON = [
   },
     {
         nick: "Stanisław",
-        date: "poniedziałek 20.01.2020",
+        date: "1 godzinę temu",
         content: "Szanowni. Wypowiem się, ponieważ męczyłem się z bolącymi plecami przez prawie 6 lat. Lata pracy w branży produkcyjnej na stojąco zrobiły swoje. Na różne środki, opaski i inne cuda wydalem w sumie ponad 7 tysięcy zł, co i tak nie jest dużo, chociaz jak na emeryture przeciętnego kowalskiego to sami panstwo rozumiecie. I żadne proszki nie pomogły, tylko dostałem problemów z żołądkiem. Tak samo te niby opaski magntyczne, naciąganie ludzi na ciezkie pieniadze, o kant dupy to potłuc! A trzy tygodnie temu dostałem od syna ten preparat i aż sam się zdziwilem. Zacząłem łykać i bol minął. Trzasków nie ma, normalnie się ruszam, plecy w ogóle mnie nie ma. nie wiem czy to na kazdego dziala, na mnie zadzialalo!warto, abyście sprobowali",
         likes: 3,
         hasLiked: false
   },
     {
         nick: "Adam",
-        date: "poniedziałek 20.01.2020",
+        date: "1 godzinę temu",
         content: "Też jestem po kuracji Flexinea+ i świetnie na tym wyszedłem. Używam dopiero od dwóch tygodni, ale już zapomniałem o bólu i nie sądzę że wróci. Wreszcie mogę życ jak normalny człowiek",
         likes: 2,
         hasLiked: false,
   },
     {
         nick: "Dagmara",
-        date: "poniedziałek 20.01.2020",
+        date: "1 godzinę temu",
         content: "Właśnie przyszło! Jezu, jaram się! Oby w końcu coś zadziałało na moje halluksy! Trzymajcie kciuki kochani! ",
         likes: 9,
         hasLiked: false,
@@ -96,14 +96,14 @@ let commentsJSON = [
   
     {
         nick: "Marianna",
-        date: "poniedziałek 20.01.2020",
+        date: "2 godziny temu",
         content: "wchodzac na te strone nie spodziewalam się ze takie cuda wyczytam. Muszę mieć tą kurację w takim razie. Mam już dość okropnego bólu biodra i kolan. Wreszcie się go pozbędę-wspaniale!",
         likes: 5,
         hasLiked: false,
         answers: [
             {
                 nick: "Zofia",
-                date: "poniedziałek 20.01.2020",
+                date: "2 godziny temu",
                 content: "<b>@Marianna</b> to faktycznie działa, moje bóle kręgosłupy minęły jak ręką odjął, a ortopeda był zdziwiony, że po rwie kulszowej nie ma ani śladu! Polecam wszystkim! ",
                 likes: 5,
                 hasLiked: false,
@@ -113,21 +113,21 @@ let commentsJSON = [
   },
     {
         nick: "Jolanta",
-        date: "poniedziałek 20.01.2020",
+        date: "2 godziny temu",
         content: "Stosuję od tygodnia i czuje się swietnie, wielka ulga... nie mam żadnych efektów ubocznych, reakcji alergicznych... jest to najlepsze co mogło mnie spotkać… tyle pieniędzy zmarnowałam na różne wizyty i zabiegi, teraz nie potrzebuję niczego",
         likes: 12,
         hasLiked: false
   },
     {
         nick: "Maciek",
-        date: "poniedziałek 20.01.2020",
+        date: "2 godziny temu",
         content: "Zamówiłem Flexinea+, bo chcę pozbyć się bólu kręgosłupa. Będę ojcem, więc muszę mieć siłę i mam w końcu motywację, by coś z tym bólem zrobić. Efekt – mega! Ból ustąpił po dobie, nie mogę doczekać się końca kuracji.",
         likes: 2,
         hasLiked: false,
   },
     {
         nick: "Paulina",
-        date: "poniedziałek 20.01.2020",
+        date: "2 godziny temu",
         content: "Kiedyś nabawiłam się kontuzji barku, nawet miałam operację, ale niestety do dziś szwankuje. Zamówiłam te kapsułki i od razu poskutkowało, nie ma żadnego bólu, to już 2 tydzień, więc zakres ruchu jest większy. Polecam wszystkim! ",
         likes: 0,
         hasLiked: false,
@@ -135,21 +135,21 @@ let commentsJSON = [
   },
     {
         nick: "Katarzyna",
-        date: "poniedziałek 20.01.2020",
+        date: "3 godziny temu",
         content: "Moja mama jest już w podeszłym wieku więc mam pytanie do państwa co stosowali, ile macie lat, czy są tu jakieś osoby w podeszłym wieku 77 lat lub ich rodzina/znajomi? Chcę wiedzieć czy dla mamy jest jakaś szansa. bardzo jej współczuję i martwię się. Proszę o odpowiedź.",
         likes: 0,
         hasLiked: false,
         "answers": [
             {
                 nick: "Dawid",
-                date: "poniedziałek 20.01.2020",
+                date: "3 godziny temu",
                 content: "<b>@Katarzyna</b> odkąd się dowiedziałem o tej kuracji to zacząłem stosować na kręgosłup,pomogło mi więc sprezentowałem tacie, a ma 94 lata więc wiadomo ledwo łaził. A tak mu się poprawiło że założył mamy kapelusz i szlafrok i zaczął tańczyć hehe Więc polecam też tobie i twojej mamie",
                 likes: 0,
                 hasLiked: false,
             },
             {
                 nick: "Katarzyna",
-                date: "poniedziałek 20.01.2020",
+                date: "3 godziny temu",
                 content: "<b>@Dawid</b> dziękuję Ci bardzo serdecznie za odpowiedź. w takim razie podaruję mamie tą kurację. Zdrowia dla ciebie i dla taty!",
                 likes: 0,
                 hasLiked: false,
@@ -160,21 +160,21 @@ let commentsJSON = [
   
     {
         nick: "Stanisława",
-        date: "poniedziałek 20.01.2020",
+        date: "5 godzin temu",
         content: "Tez brałam, po operacji na kolano, ból minął w mig, kupujcie póki jest! 😊",
         likes: 0,
         hasLiked: false
   },
     {
         nick: "Ola",
-        date: "poniedziałek 20.01.2020",
+        date: "5 godzin temu",
         content: "najcetniej od razu bym skorzystała,ale mam obawy, czy to na pewno działa. Wydałam już wystarczojąco na nieskuteczne sposoby",
         likes: 0,
         hasLiked: false,
         answers: [
             {
                 nick: "Natalia",
-                date: "poniedziałek 20.01.2020",
+                date: "5 godzin temu",
                 content: "<b>@Ola</b> nie masz czego się obawiać, cała moja rodzina to bierze i wszyscy się dobrze czujemy. Mi pomogło na kolano, mojej mamie na biodra, tobie też pewnie pomoże. Spróbuj! ",
                 likes: 0,
                 hasLiked: false,
@@ -182,7 +182,7 @@ let commentsJSON = [
             },
             {
                 nick: "Ola",
-                date: "poniedziałek 20.01.2020",
+                date: "5 godzin temu",
                 content: "<b>@Natalia</b> a!! właśnie przeczytalam ze na tę kuracje przysluguje gwarancja potrojnej satysfakcji, w takim razie nie ma obaw. Przekonam się na wlasnej skorze,oby mi pomogło :)",
                 likes: 0,
                 hasLiked: false,
@@ -191,14 +191,14 @@ let commentsJSON = [
   },
     {
         nick: "Robert",
-        date: "poniedziałek 20.01.2020",
+        date: "wczoraj",
         content: "Mój brat brał te kapsułki i mi je polecił stosował te naturalne kapsułki i jakiś czas temu mi je polecił. Dostałem paczkę w przeciągu 3 dni. Jak na razie rezultaty są oszałamiające – ból pleców minął, a ja z każdym dniem czuję się lepiej! Nie mogę się już doczekać końca!",
         likes: 0,
         hasLiked: false,
     },
     {
         nick: "Filip",
-        date: "poniedziałek 20.01.2020",
+        date: "wczoraj",
         content: "właśnie czekam na przesyłkę z kuracją, niedługo napiszę o efektach",
         likes: 0,
         hasLiked: false,
