@@ -74,7 +74,7 @@ let commentsJSON = [
     {
         nick: "Stanisław",
         date: "1 godzinę temu",
-        content: "Szanowni. Wypowiem się, ponieważ męczyłem się z bolącymi plecami przez prawie 6 lat. Lata pracy w branży produkcyjnej na stojąco zrobiły swoje. Na różne środki, opaski i inne cuda wydalem w sumie ponad 7 tysięcy zł, co i tak nie jest dużo, chociaz jak na emeryture przeciętnego kowalskiego to sami panstwo rozumiecie. I żadne proszki nie pomogły, tylko dostałem problemów z żołądkiem. Tak samo te niby opaski magntyczne, naciąganie ludzi na ciezkie pieniadze, o kant dupy to potłuc! A trzy tygodnie temu dostałem od syna ten preparat i aż sam się zdziwilem. Zacząłem łykać i bol minął. Trzasków nie ma, normalnie się ruszam, plecy w ogóle mnie nie ma. nie wiem czy to na kazdego dziala, na mnie zadzialalo!warto, abyście sprobowali",
+        content: "Szanowni. Wypowiem się, ponieważ męczyłem się z bolącymi plecami przez prawie 6 lat. Lata pracy w branży produkcyjnej na stojąco zrobiły swoje. Na różne środki, opaski i inne cuda wydalem w sumie ponad 7 tysięcy zł, co i tak nie jest dużo, chociaz jak na emeryture przeciętnego kowalskiego to sami panstwo rozumiecie. I żadne proszki nie pomogły, tylko dostałem problemów z żołądkiem. Tak samo te niby opaski magntyczne, naciąganie ludzi na ciezkie pieniadze, o kant dupy to potłuc! A trzy tygodnie temu dostałem od syna ten preparat i aż sam się zdziwilem. Zacząłem łykać i bol minął. Trzasków nie ma, normalnie się ruszam, plecy w ogóle mnie nie bolą. nie wiem czy to na kazdego dziala, na mnie zadzialalo!warto, abyście sprobowali",
         likes: 3,
         hasLiked: false
   },
@@ -89,7 +89,7 @@ let commentsJSON = [
     {
         nick: "Dagmara",
         date: "1 godzinę temu",
-        content: "Właśnie przyszło! Jezu, jaram się! Oby w końcu coś zadziałało na moje halluksy! Trzymajcie kciuki kochani! ",
+        content: "Właśnie przyszło! Jezu, jaram się! Oby w końcu coś zadziałało na moje halluksy! Trzymajcie kciuki kochani!",
         likes: 9,
         hasLiked: false,
         
@@ -105,7 +105,7 @@ let commentsJSON = [
             {
                 nick: "Zofia",
                 date: "2 godziny temu",
-                content: "<b>@Marianna</b> to faktycznie działa, moje bóle kręgosłupy minęły jak ręką odjął, a ortopeda był zdziwiony, że po rwie kulszowej nie ma ani śladu! Polecam wszystkim! ",
+                content: "<b>@Marianna</b> to faktycznie działa, moje bóle kręgosłupy minęły jak ręką odjął, a ortopeda był zdziwiony, że po rwie kulszowej nie ma ani śladu! Polecam wszystkim!",
                 likes: 5,
                 hasLiked: false,
                 pict: "comment04"
@@ -130,7 +130,7 @@ let commentsJSON = [
     {
         nick: "Paulina",
         date: "2 godziny temu",
-        content: "Kiedyś nabawiłam się kontuzji barku, nawet miałam operację, ale niestety do dziś szwankuje. Zamówiłam te kapsułki i od razu poskutkowało, nie ma żadnego bólu, to już 2 tydzień, więc zakres ruchu jest większy. Polecam wszystkim! ",
+        content: "Kiedyś nabawiłam się kontuzji barku, nawet miałam operację, ale niestety do dziś szwankuje. Zamówiłam te kapsułki i od razu poskutkowało, nie ma żadnego bólu, to już 2 tydzień, więc zakres ruchu jest większy. Polecam wszystkim!",
         likes: 0,
         hasLiked: false
   },
@@ -144,7 +144,7 @@ let commentsJSON = [
             {
                 nick: "Dawid",
                 date: "3 godziny temu",
-                content: "<b>@Katarzyna</b> odkąd się dowiedziałem o tej kuracji to zacząłem stosować na kręgosłup,pomogło mi więc sprezentowałem tacie, a ma 94 lata więc wiadomo ledwo łaził. A tak mu się poprawiło że założył mamy kapelusz i szlafrok i zaczął tańczyć hehe Więc polecam też tobie i twojej mamie",
+                content: "<b>@Katarzyna</b> odkąd się dowiedziałem o tej kuracji to zacząłem stosować na kręgosłup,pomogło mi więc sprezentowałem tacie, a ma 84 lata więc wiadomo ledwo łaził. A tak mu się poprawiło że założył mamy kapelusz i szlafrok i zaczął tańczyć hehe Więc polecam też tobie i twojej mamie",
                 likes: 0,
                 hasLiked: false,
             },
@@ -176,7 +176,7 @@ let commentsJSON = [
             {
                 nick: "Natalia",
                 date: "5 godzin temu",
-                content: "<b>@Ola</b> nie masz czego się obawiać, cała moja rodzina to bierze i wszyscy się dobrze czujemy. Mi pomogło na kolano, mojej mamie na biodra, tobie też pewnie pomoże. Spróbuj! ",
+                content: "<b>@Ola</b> nie masz czego się obawiać, cała moja rodzina to bierze i wszyscy się dobrze czujemy. Mi pomogło na kolano, mojej mamie na biodra, tobie też pewnie pomoże. Spróbuj!",
                 likes: 0,
                 hasLiked: false,
                 pict: "NR1"   
@@ -193,7 +193,7 @@ let commentsJSON = [
     {
         nick: "Robert",
         date: "wczoraj",
-        content: "Mój brat brał te kapsułki i mi je polecił stosował te naturalne kapsułki i jakiś czas temu mi je polecił. Dostałem paczkę w przeciągu 3 dni. Jak na razie rezultaty są oszałamiające – ból pleców minął, a ja z każdym dniem czuję się lepiej! Nie mogę się już doczekać końca!",
+        content: "Mój brat polecił mi te naturalne kapsułki. Dostałem paczkę w przeciągu 3 dni. Jak na razie rezultaty są oszałamiające – ból pleców minął, a ja z każdym dniem czuję się lepiej! Nie mogę się już doczekać końca!",
         likes: 0,
         hasLiked: false,
     },
