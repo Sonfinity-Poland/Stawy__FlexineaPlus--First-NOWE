@@ -67,7 +67,7 @@ let commentsJSON = [
                 content: "<b>@janinka</b> kup koniecznie, tym bardziej że teraz jest promocja. Ja już mam to cudo, zobaczymy jak działa ",
                 likes: 3,
                 hasLiked: false,
-                pict: "NR1"
+                pict: "comment01"
             }
         ]
   },
@@ -84,6 +84,7 @@ let commentsJSON = [
         content: "Też jestem po kuracji Flexinea+ i świetnie na tym wyszedłem. Używam dopiero od dwóch tygodni, ale już zapomniałem o bólu i nie sądzę że wróci. Wreszcie mogę życ jak normalny człowiek",
         likes: 2,
         hasLiked: false,
+        pict: "comment02"
   },
     {
         nick: "Dagmara",
@@ -91,7 +92,7 @@ let commentsJSON = [
         content: "Właśnie przyszło! Jezu, jaram się! Oby w końcu coś zadziałało na moje halluksy! Trzymajcie kciuki kochani! ",
         likes: 9,
         hasLiked: false,
-        pict: "NR1"
+        
   },
   
     {
@@ -107,7 +108,7 @@ let commentsJSON = [
                 content: "<b>@Marianna</b> to faktycznie działa, moje bóle kręgosłupy minęły jak ręką odjął, a ortopeda był zdziwiony, że po rwie kulszowej nie ma ani śladu! Polecam wszystkim! ",
                 likes: 5,
                 hasLiked: false,
-                pict: "NR1"
+                pict: "comment04"
             }
         ]
   },
@@ -124,14 +125,14 @@ let commentsJSON = [
         content: "Zamówiłem Flexinea+, bo chcę pozbyć się bólu kręgosłupa. Będę ojcem, więc muszę mieć siłę i mam w końcu motywację, by coś z tym bólem zrobić. Efekt – mega! Ból ustąpił po dobie, nie mogę doczekać się końca kuracji.",
         likes: 2,
         hasLiked: false,
+        pict: "comment03"
   },
     {
         nick: "Paulina",
         date: "2 godziny temu",
         content: "Kiedyś nabawiłam się kontuzji barku, nawet miałam operację, ale niestety do dziś szwankuje. Zamówiłam te kapsułki i od razu poskutkowało, nie ma żadnego bólu, to już 2 tydzień, więc zakres ruchu jest większy. Polecam wszystkim! ",
         likes: 0,
-        hasLiked: false,
-        pict: "NR1"
+        hasLiked: false
   },
     {
         nick: "Katarzyna",
@@ -374,7 +375,7 @@ function renderMockCommetns() {
                         <p>
                             ${element.content}
                         </p>
-                        <img class="mb-2 mt-2 imagen" src="assets/img/${element.pict}.jpg" alt="">
+                        <img class="mb-2 mt-2 imagen" src="assets/img/${element.pict}.png" alt="">
                         <div class="cmt-buttons">
                             <span class="like-btn">Lubię to</span>
                             <svg width="18px" height="18px" style="margin-top: -4px;" viewBox="0 0 543 451" version="1.1" xmlns="http://www.w3.org/2000/svg">
@@ -410,7 +411,7 @@ function renderMockCommetns() {
                                     <p>
                                         ${answerMock.content}
                                     </p>
-                                    <img class="mb-2 mt-2 imagen" src="assets/img/${answerMock.pict}.jpg" alt="">
+                                    <img class="mb-2 mt-2 imagen" src="assets/img/${answerMock.pict}.png" alt="">
                                     <div class="cmt-buttons">
                                         <span class="like-btn">Lubię to</span>
                                         <svg width="18px" height="18px" style="margin-top: -4px;" viewBox="0 0 543 451" version="1.1" xmlns="http://www.w3.org/2000/svg">
