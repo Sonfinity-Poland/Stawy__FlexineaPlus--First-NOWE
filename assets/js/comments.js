@@ -179,7 +179,7 @@ let commentsJSON = [
                 content: "<b>@Ola</b> nie masz czego się obawiać, cała moja rodzina to bierze i wszyscy się dobrze czujemy. Mi pomogło na kolano, mojej mamie na biodra, tobie też pewnie pomoże. Spróbuj!",
                 likes: 0,
                 hasLiked: false,
-                pict: "NR1"   
+                pict: "comment05"   
             },
             {
                 nick: "Ola",
