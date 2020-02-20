@@ -17,6 +17,14 @@ body .wrapper {
   }
 }
 
+img[src="assets/img/undefined.jpg"] {
+  display: none;
+}
+
+img[src="assets/img/undefined.png"] {
+  display: none;
+}
+
 .report {
   background-color: #0a9c9c;
   color: white;
