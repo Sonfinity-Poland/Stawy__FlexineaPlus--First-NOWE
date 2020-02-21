@@ -72,7 +72,7 @@ var commentsJSON = [
           "<b>@janinka</b> kup koniecznie, tym bardziej że teraz jest promocja. Ja już mam to cudo, zobaczymy jak działa ",
         likes: 3,
         hasLiked: false,
-        pict: "comment01"
+        pict: "6"
       }
     ]
   },
