@@ -200,7 +200,7 @@ var commentsJSON = [
         nick: "Ola",
         date: "5 godzin temu",
         content:
-          "<b>@Natalia</b> a!! właśnie przeczytalam ze na tę kuracje przysluguje gwarancja potrojnej satysfakcji, w takim razie nie ma obaw. Przekonam się na wlasnej skorze,oby mi pomogło :)",
+          "<b>@Natalia</b> a!! właśnie przeczytalam ze na tę kuracje przysługuje Europejska Gwarancja Najwyższej Jakości, w takim razie nie ma obaw. Przekonam się na wlasnej skorze,oby mi pomogło :)",
         likes: 0,
         hasLiked: false
       }

@@ -6,9 +6,8 @@ body {
   .wrapper {
     margin-top: 20px;
     background-color: white;
-    max-width: 1075px;
 
-    @media (max-width: 768px) {
+    @media (max-width: 575px) {
       margin-top: 0;
     }
   }
