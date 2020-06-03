@@ -16,6 +16,7 @@ body {
 img[src="assets/img/undefined.jpg"] {
   display: none;
 }
+
 img[src="assets/img/undefined.png"] {
   display: none;
 }
@@ -216,4 +217,21 @@ ul {
 
 .weather {
   border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+footer {
+  margin-top: 20px;
+  padding-top: 15px;
+  text-align: center;
+  border-top: 1px solid #d9d9d9;
+
+  .links {
+    padding-bottom: 10px;
+
+    a {
+      color: #000;
+      font-weight: 500;
+      cursor: pointer;
+    }
+  }
 }
