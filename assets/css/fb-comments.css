@@ -57,14 +57,16 @@
 }
 
 .imagen {
-  width: 100%;
-  max-width: 200px;
-  display: block;
+  max-width: 150px;
+  height: auto;
+  max-height: 180px;
+  padding: 0 3px;
+  display: inline-block;
 }
 
 @media (max-width: 575px) {
   .imagen {
-    max-width: 150px;
+    max-width: 120px;
   }
 }
 
