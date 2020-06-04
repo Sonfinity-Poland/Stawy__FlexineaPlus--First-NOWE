@@ -195,7 +195,7 @@ var commentsJSON = [
         nick: "Natka",
         date: "1 dzień temu",
         content:
-          "<b>@Ola</b> nie masz czego się obawiać, cała moja rodzina to bierze i wszyscy się dobrze czujemy. Mi pomogło na kolano, mojej mamie na biodra, tobie też pewnie pomoże. Spróbuj!",
+          "<b>@Oluuusia99</b> nie masz czego się obawiać, cała moja rodzina to bierze i wszyscy się dobrze czujemy. Mi pomogło na kolano, mojej mamie na biodra, tobie też pewnie pomoże. Spróbuj!",
         likes: 0,
         hasLiked: false,
         pict: "comment05",
